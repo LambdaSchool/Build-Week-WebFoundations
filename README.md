@@ -1,6 +1,6 @@
 # Build Week: Web Foundations
 
-This challenge allows you to practice the concepts and techniques learned over the past 4 weeks and apply them in a concrete project. The `Web Foundations` Unit explored the following topics: `User Interfaces 1 - 3`, `Git for Web Development`, `Responsive Design 1 - 2`, `Pre-Processors 1 - 2`, `JavaScript Fundamentals 1 - 5`, `DOM 1 - 2` & `Components 1 - 2`. For your challenge this week, you will demonstrate proficiency by working with a student of the User Experience Design Course to create a Web Site which you can select from a list of potential options or create as a product of your own design.
+This challenge allows you to practice the concepts and techniques learned over the past 4 weeks and apply them in a concrete project. The `Web Foundations` Unit explored the following topics: `User Interfaces 1 - 3`, `Git for Web Development`, `Responsive Design 1 - 2`, `Pre-Processors 1 - 2`, `JavaScript Fundamentals 1 - 4`, `DOM 1 - 2` & `Components 1 - 2`. For your challenge this week, you will demonstrate proficiency by working with a student of the User Experience Design Course to create a Web Site which you can select from a list of potential options or create as a product of your own design.
 
 ## Instructions
 
