@@ -6,7 +6,7 @@ This challenge allows you to practice the concepts and techniques learned over t
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Project.**
 
-This is a project that you will work on, - and demonstrate your abilities to collaborate - with another student. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding weeks.
+This is a project that you will work on and demonstrate your abilities to collaborate with another student. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding weeks.
 
 You will collaborate with a student from the User Experience Design course during throughout the duration of the project.
 
